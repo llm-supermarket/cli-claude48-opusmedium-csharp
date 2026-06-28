@@ -5,7 +5,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/llm-supermarket/cli-claude48-opusmedium-csharp/releases/download/v1.0.0/cli-claude48-opusmedium-csharp-windows-amd64.exe",
-      "hash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "hash": "b7794b91e221ef4e47bb41389d81e47a66c0530b61b331cfdb7aeaf6deb69f88",
       "bin": [
         [
           "cli-claude48-opusmedium-csharp-windows-amd64.exe",
