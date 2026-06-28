@@ -1,0 +1,14 @@
+# .NET build output
+bin/
+obj/
+publish/
+artifacts/
+*.user
+
+# Rider / VS
+.idea/
+.vs/
+
+# Test results
+TestResults/
+[Tt]est[Rr]esults/

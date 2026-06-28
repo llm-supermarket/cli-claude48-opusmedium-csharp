@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>RcloneCrypt.Cli</RootNamespace>
+    <AssemblyName>cli-claude48-opusmedium-csharp</AssemblyName>
+    <InvariantGlobalization>true</InvariantGlobalization>
+    <Version>0.0.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Core\RcloneCrypt.Core.csproj" />
+  </ItemGroup>
+
+</Project>
